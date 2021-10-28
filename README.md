@@ -46,6 +46,6 @@ This repository is my first steps with Java, it contain:
 
 [Which number is bigger between both](https://github.com/VitorDietrich-Coder/Exercicio-JAVA-1/blob/main/Exercicio5.java)
 
-[Read two values and write them in ascending order](ttps://github.com/VitorDietrich-Coder/Exercicio-JAVA-1/blob/main/Exercicio6.java)
+[Read two values and write them in ascending order](https://github.com/VitorDietrich-Coder/Exercicio-JAVA-1/blob/main/Exercicio6.java)
 
 [The time of a chess game](https://github.com/VitorDietrich-Coder/Exercicio-JAVA-1/blob/main/Exercicio7.java)
